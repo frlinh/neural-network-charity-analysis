@@ -29,6 +29,7 @@ The purpose of this analysis is to use deep-learning neural networks to analyze 
 - Compiled, trained, and evaluate the model
 
 The initial Neural Network Model accuracy is 73%.
+
 ![nnModel](https://github.com/frlinh/neural-network-charity-analysis/blob/839577d40e5b897ed5a0a6dc4ce77382b6439ddb/nnModel.png)
 
 ### Optimize the Neural Network Model
