@@ -11,6 +11,8 @@ The purpose of this analysis is to use deep-learning neural networks to analyze 
 - Data Source: charity_data.csv
 - Software: Google Colab, sklearn, tensorflow
 
+## Neural Network Model
+
 ### Data Preprocessing
 - Dropped the non-beneficial ID columns ```EIN``` and ```NAME```
 - Visualized the value counts of ```APPLICATION_TYPE```
