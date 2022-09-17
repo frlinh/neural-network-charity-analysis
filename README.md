@@ -30,12 +30,12 @@ The purpose of this analysis is to use deep-learning neural networks to analyze 
 ![sequential](https://github.com/frlinh/neural-network-charity-analysis/blob/839577d40e5b897ed5a0a6dc4ce77382b6439ddb/sequentialModel.png)
 - Compiled, trained, and evaluate the model
 
-The initial Neural Network Model accuracy is 73%.
+The initial Neural Network Model accuracy was 73%.
 
 ![nnModel](https://github.com/frlinh/neural-network-charity-analysis/blob/839577d40e5b897ed5a0a6dc4ce77382b6439ddb/nnModel.png)
 
 ### Optimize the Neural Network Model
-To optimize the neural network model accuracy, we added more data to train the model.
+Optimized the neural network model accuracy by adding more data to train the model.
 The following steps were applied:
 - Increased the application count from 500 to 750
 
